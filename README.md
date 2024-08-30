@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaallea
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning basic coding
-- 📫 Pls teach me how to hack school's wifi
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: living in boarding school
 
